@@ -133,8 +133,8 @@ python -m http.server 8000
 
 ## 🤝 Authors
 
-| Name | ID | Role |
-|---|---|---|
+| Name | ID |
+|---|---|
 | **Sumrun Sahab Khan** | Data Processing, Visualization |
 
 ---
