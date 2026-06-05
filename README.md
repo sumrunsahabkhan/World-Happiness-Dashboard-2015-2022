@@ -131,7 +131,7 @@ python -m http.server 8000
 
 ---
 
-## 🤝 Authors
+## 🤝 Author
 
 | Name | ID |
 |---|---|
